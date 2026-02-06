@@ -2,7 +2,7 @@
 
 This application provides backend APIs for a hotel management system, including inventory management, booking flow, user authentication, and hotel browsing.
 
-![Image](https://github.com/user-attachments/assets/585136d9-05b5-4832-ad37-0a47d4678433)
+<img width="1200" height="1600" alt="created by Anuj Sisodiya" src="https://github.com/user-attachments/assets/f53942ee-065e-43b1-af24-db02f13d6958" />
 
 ## Features
 
