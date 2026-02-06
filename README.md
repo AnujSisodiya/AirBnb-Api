@@ -1,8 +1,9 @@
 # Airbnb Backend API
 
 This application provides backend APIs for a hotel management system, including inventory management, booking flow, user authentication, and hotel browsing.
+<img width="1200" height="738" alt="created by Anuj Sisodiya" src="https://github.com/user-attachments/assets/eb877f99-efed-4b8c-a35d-ec223386fcc8" />
 
-<img width="1200" height="1600" alt="created by Anuj Sisodiya" src="https://github.com/user-attachments/assets/f53942ee-065e-43b1-af24-db02f13d6958" />
+
 
 ## Features
 
